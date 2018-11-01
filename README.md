@@ -1,5 +1,5 @@
 # EnterpriseSystemsTesting
-#Demonstration for Black-box testing
+# Demonstration for Black-box testing
 
 By running the test suite file under test packages of the ejb.session.stateless module, we test whether
 our program can pass the following test cases:
