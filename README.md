@@ -3,7 +3,7 @@
 
 By running the test suite file under test packages of the ejb.session.stateless module, we test whether
 our program can pass the following test cases:
-1) Testing VenueSessionBean:
+1. Testing VenueSessionBean:
 - Test = test01RetrieveAllVenues
 - Assertion = assetFalse(result.isEmpty()), assetEquals(4, result.size())
 
